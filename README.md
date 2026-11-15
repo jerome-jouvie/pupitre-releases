@@ -1,10 +1,71 @@
 # Pupitre
 
+[English](#english) · [Français](#français)
+
 ## English
 
 **Pupitre** — Your scores and tabs within reach, to practise every day
 
 **Version 0.1.0** — [Download](https://github.com/jerome-jouvie/pupitre-releases/releases/tag/v0.1.0)
+
+### About
+
+Pupitre is the must-have desktop app for musicians buried under scores and tabs in PDF or image form. It turns your folders into a truly smart music library and into the ideal digital music stand for rehearsing.
+
+- **Your folder, organised at last**: Pupitre indexes your existing library and automatically detects artists, albums and titles from your file names. Each score can be split into songs (with pages and capo), enriched with riffs and styles, and added to your favourites.
+- **Found in a second**: A lightning-fast universal search box (forgiving of typos and accents) indexes titles, artists and riffs. A single click on a result instantly opens the score at the exact page.
+- **Practice without distraction**: Enjoy a full-screen viewer that remembers where you left off. Turn pages with the keyboard, a pedal or a click, and mark your songs and riffs mid-play in just two keystrokes.
+- **Play along with the recording**: Attach a full song or a backing track to your scores. Adjust the playback speed from 25% to 150% without changing the pitch, loop a passage (A–B) using the waveform, and make the most of the built-in speed trainer.
+- **Your music too**: The music library explores your audio files by artist, album and genre, with cover art and play queues.
+- **Follow your progress**: Your practice sessions are timed automatically. Find your history, detailed statistics and favourites at a glance.
+- **Your files belong to you**: Everything runs locally on your computer, with no account and no telemetry. Your original files are respected: the smart tidying mode renames your files safely, with a preview and undo.
+
+Available in English and French, with a light and a dark theme, Pupitre runs on Linux, Windows and macOS.
+
+### Screenshots
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="screenshots/en-dark/01-partotheque.webp"><img alt="The score library: all your scores and tabs, sorted and filtered" src="screenshots/en-dark/01-partotheque.webp" width="400"></a><br>
+      <sub>The score library: all your scores and tabs, sorted and filtered</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="screenshots/en-dark/02-partotheque-details.webp"><img alt="The details of a score: metadata, songs, audio tracks" src="screenshots/en-dark/02-partotheque-details.webp" width="400"></a><br>
+      <sub>The details of a score: metadata, songs, audio tracks</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="screenshots/en-dark/05-recherche.webp"><img alt="The global search (titles, artists, songs, riffs)" src="screenshots/en-dark/05-recherche.webp" width="400"></a><br>
+      <sub>The global search (titles, artists, songs, riffs)</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="screenshots/en-dark/06-pratique.webp"><img alt="The practice viewer" src="screenshots/en-dark/06-pratique.webp" width="400"></a><br>
+      <sub>The practice viewer</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="screenshots/en-dark/07-pratique-annotations.webp"><img alt="Annotations: songs and riffs set on the score" src="screenshots/en-dark/07-pratique-annotations.webp" width="400"></a><br>
+      <sub>Annotations: songs and riffs set on the score</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="screenshots/en-dark/09-pratique-lecteur-audio.webp"><img alt="The audio player: slow-down without changing the pitch, A–B loop, waveform" src="screenshots/en-dark/09-pratique-lecteur-audio.webp" width="400"></a><br>
+      <sub>The audio player: slow-down without changing the pitch, A–B loop, waveform</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="screenshots/en-dark/12-audiotheque.webp"><img alt="The music library: your music, tags read from the files" src="screenshots/en-dark/12-audiotheque.webp" width="400"></a><br>
+      <sub>The music library: your music, tags read from the files</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="screenshots/en-dark/15-audiotheque-lecture.webp"><img alt="The play queue and the player, with the listening indicator in the menu" src="screenshots/en-dark/15-audiotheque-lecture.webp" width="400"></a><br>
+      <sub>The play queue and the player, with the listening indicator in the menu</sub>
+    </td>
+  </tr>
+</table>
 
 ### Changelog
 
@@ -60,6 +121,65 @@
 **Pupitre** — Vos partitions et tablatures à portée de main, pour pratiquer chaque jour
 
 **Version 0.1.0** — [Télécharger](https://github.com/jerome-jouvie/pupitre-releases/releases/tag/v0.1.0)
+
+### Présentation
+
+Pupitre est l'application de bureau indispensable pour les musiciens qui croulent sous les partitions et tablatures en PDF ou en images. Elle transforme vos dossiers en une véritable bibliothèque musicale intelligente et en un pupitre numérique idéal pour répéter.
+
+- **Votre dossier, enfin organisé** : Pupitre indexe votre bibliothèque existante et détecte automatiquement les artistes, albums et titres à partir du nom de vos fichiers. Chaque partition peut être découpée en morceaux (avec pages et capodastre), enrichie de riffs, de styles et ajoutée à vos favoris.
+- **Retrouvée en une seconde** : Un champ de recherche universel ultra-rapide (tolérant aux fautes de frappe et aux accents) indexe titres, artistes et riffs. Un simple clic sur un résultat ouvre instantanément la partition à la page exacte.
+- **Pratiquer sans distraction** : Profitez d'une visionneuse en plein écran avec mémorisation de votre position de lecture. Tournez les pages au clavier, à la pédale ou au clic, et marquez vos morceaux et riffs en plein jeu en seulement deux touches.
+- **Jouer avec l'enregistrement** : Associez un morceau complet ou un backing track à vos partitions. Ajustez la vitesse de lecture de 25 % à 150 % sans altérer la hauteur de note, bouclez un passage (A–B) à l'aide de la forme d'onde et profitez de l'entraîneur de vitesse intégré.
+- **Votre musique aussi** : L'audiothèque explore vos fichiers audio par artiste, album et genre, avec affichage des pochettes et gestion de listes de lecture.
+- **Suivre vos progrès** : Vos sessions de pratique sont chronométrées automatiquement. Retrouvez votre historique, vos statistiques détaillées et vos favoris en un clin d'œil.
+- **Vos fichiers vous appartiennent** : Tout fonctionne localement sur votre ordinateur, sans création de compte ni télémétrie. Vos fichiers originaux sont respectés : le mode de rangement intelligent renomme vos fichiers en toute sécurité avec un système d'aperçu et d'annulation.
+
+Disponible en français et en anglais, avec un thème clair et un thème sombre, Pupitre est compatible sous Linux, Windows et macOS.
+
+### Captures d'écran
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="screenshots/fr-clair/01-partotheque.webp"><img alt="La partothèque : toutes vos partitions et tablatures, triées et filtrées" src="screenshots/fr-clair/01-partotheque.webp" width="400"></a><br>
+      <sub>La partothèque : toutes vos partitions et tablatures, triées et filtrées</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="screenshots/fr-clair/02-partotheque-details.webp"><img alt="Le détail d&#x27;une partition : métadonnées, morceaux, pistes audio" src="screenshots/fr-clair/02-partotheque-details.webp" width="400"></a><br>
+      <sub>Le détail d'une partition : métadonnées, morceaux, pistes audio</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="screenshots/fr-clair/05-recherche.webp"><img alt="La recherche globale (titres, artistes, morceaux, riffs)" src="screenshots/fr-clair/05-recherche.webp" width="400"></a><br>
+      <sub>La recherche globale (titres, artistes, morceaux, riffs)</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="screenshots/fr-clair/06-pratique.webp"><img alt="La visionneuse de pratique" src="screenshots/fr-clair/06-pratique.webp" width="400"></a><br>
+      <sub>La visionneuse de pratique</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="screenshots/fr-clair/07-pratique-annotations.webp"><img alt="Les annotations : morceaux et riffs posés sur la partition" src="screenshots/fr-clair/07-pratique-annotations.webp" width="400"></a><br>
+      <sub>Les annotations : morceaux et riffs posés sur la partition</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="screenshots/fr-clair/09-pratique-lecteur-audio.webp"><img alt="Le lecteur audio : ralentissement sans changer la hauteur, boucle A–B, forme d&#x27;onde" src="screenshots/fr-clair/09-pratique-lecteur-audio.webp" width="400"></a><br>
+      <sub>Le lecteur audio : ralentissement sans changer la hauteur, boucle A–B, forme d'onde</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="screenshots/fr-clair/12-audiotheque.webp"><img alt="L&#x27;Audiothèque : votre musique, étiquettes lues dans les fichiers" src="screenshots/fr-clair/12-audiotheque.webp" width="400"></a><br>
+      <sub>L'Audiothèque : votre musique, étiquettes lues dans les fichiers</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="screenshots/fr-clair/15-audiotheque-lecture.webp"><img alt="La liste de lecture et le lecteur, avec l&#x27;indicateur d&#x27;écoute dans le menu" src="screenshots/fr-clair/15-audiotheque-lecture.webp" width="400"></a><br>
+      <sub>La liste de lecture et le lecteur, avec l'indicateur d'écoute dans le menu</sub>
+    </td>
+  </tr>
+</table>
 
 ### Journal des changements
 

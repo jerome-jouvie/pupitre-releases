@@ -6,7 +6,7 @@
 
 **Pupitre** — Your scores and tabs within reach, to practise every day
 
-**Version 0.1.0** — [Download](https://github.com/jerome-jouvie/pupitre-releases/releases/tag/v0.1.0)
+**Version 0.1.1** — [Download](https://github.com/jerome-jouvie/pupitre-releases/releases/tag/v0.1.1)
 
 ### About
 
@@ -69,6 +69,32 @@ Available in English and French, with a light and a dark theme, Pupitre runs on 
 
 ### Changelog
 
+#### 0.1.1 - 2026-11-16
+
+**Features**
+
+- Launching Pupitre again no longer starts a second copy: the window of the one already running comes back to the front, even from the notification area.
+
+**Improvements**
+
+- In the scores library and the music library, clicking the grouping already chosen (Folders, Artists, Albums, Genres, Styles) takes it away and shows everything again.
+- The "Edit" screen is gone: it repeated the details panel, which now ends with the file's information (path, size, pages, date added, practice time). A score created from images is selected, with its details shown.
+- Looking for a song's audio file also finds names whose words are stuck together, such as "01 MediterraneanSundanceRioAncho" for "Mediterranean Sundance".
+- The playlist scrolls to the track that starts playing when it is out of view; scroll elsewhere and it stays put until the next track.
+- The menu of the notification-area icon sets the volume (from 0 to 100 %) and mutes the sound; the mouse wheel on the icon turns the volume up or down.
+- Windows: the program and the installer name their publisher, Jérôme Jouvie, and "Installed apps" links to the Pupitre releases page.
+- The About screen describes Pupitre for any instrument, no longer for guitar, bass and piano only.
+- In practice, double-click the pages to hide or show the panels (in page mode, in the middle of the page: the sides still turn pages).
+- The viewer's shortcut help is grouped by topic on two columns, describes the mouse too, and fits on the screen.
+- In practice, the score's pages now reach the edges of the reading area, with the panels shown or hidden: no more border around them.
+
+**Fixes**
+
+- The playlist no longer stops at the end of a track when the window is minimised.
+- After linking audio tracks to your songs ("Audio tracks…"), the scores library shows them at once, without restarting.
+- After tidying up, the preview no longer claims that the new names are already taken and offers to number them: the files were renamed correctly.
+- Windows: the installer (MSI) opens Pupitre once it has finished; it has no window of its own, so nothing showed that the installation had worked. Uninstalling no longer leaves an empty folder behind.
+
 #### 0.1.0 - 2026-11-15
 
 **Features**
@@ -120,7 +146,7 @@ Available in English and French, with a light and a dark theme, Pupitre runs on 
 
 **Pupitre** — Vos partitions et tablatures à portée de main, pour pratiquer chaque jour
 
-**Version 0.1.0** — [Télécharger](https://github.com/jerome-jouvie/pupitre-releases/releases/tag/v0.1.0)
+**Version 0.1.1** — [Télécharger](https://github.com/jerome-jouvie/pupitre-releases/releases/tag/v0.1.1)
 
 ### Présentation
 
@@ -182,6 +208,32 @@ Disponible en français et en anglais, avec un thème clair et un thème sombre,
 </table>
 
 ### Journal des changements
+
+#### 0.1.1 - 2026-11-16
+
+**Fonctionnalités**
+
+- Relancer Pupitre ne démarre plus une deuxième copie : la fenêtre de celle qui tourne déjà revient au premier plan, même depuis la zone de notification.
+
+**Améliorations**
+
+- Dans la Partothèque et l'Audiothèque, un clic sur le regroupement déjà choisi (Dossiers, Artistes, Albums, Genres, Styles) le retire et réaffiche tout.
+- L'écran « Modifier » disparaît : il répétait le panneau de détail, qui se termine maintenant par les informations du fichier (chemin, taille, pages, date d'ajout, temps de pratique). Une partition créée depuis des images est sélectionnée, son détail affiché.
+- La recherche de la piste audio d'un morceau trouve aussi les noms aux mots collés, comme « 01 MediterraneanSundanceRioAncho » pour « Mediterranean Sundance ».
+- La liste de lecture défile jusqu'au morceau qui commence s'il n'est pas visible ; si vous la faites défiler ailleurs, elle y reste jusqu'au morceau suivant.
+- Le menu de l'icône de la zone de notification règle le volume (de 0 à 100 %) et coupe le son ; la molette sur l'icône monte ou baisse le volume.
+- Windows : le programme et l'installeur indiquent leur éditeur, Jérôme Jouvie, et « Applications installées » renvoie à la page des versions de Pupitre.
+- L'écran « À propos » présente Pupitre pour tout instrument, et non plus seulement pour la guitare, la basse et le piano.
+- En pratique, un double-clic sur les pages masque ou affiche les panneaux (en mode page : au milieu de la page, les côtés tournant toujours les pages).
+- L'aide des raccourcis de la visionneuse est groupée par thème sur deux colonnes, décrit aussi la souris et tient à l'écran.
+- En pratique, les pages de la partition vont maintenant jusqu'aux bords de la zone de lecture, panneaux affichés comme masqués : plus de bordure autour.
+
+**Correctifs**
+
+- La liste de lecture ne s'arrête plus à la fin d'un morceau quand la fenêtre est réduite.
+- Après avoir lié les pistes audio de vos morceaux (« Pistes audio… »), la Partothèque les affiche aussitôt, sans redémarrer.
+- Après un rangement, l'aperçu n'annonce plus que les nouveaux noms sont déjà pris en proposant de les numéroter : les fichiers avaient bien été renommés.
+- Windows : l'installeur (MSI) ouvre Pupitre une fois terminé ; il n'a pas de fenêtre à lui, et rien ne montrait que l'installation avait réussi. La désinstallation ne laisse plus de dossier vide.
 
 #### 0.1.0 - 2026-11-15
 
